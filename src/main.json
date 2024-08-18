@@ -1,0 +1,28 @@
+{
+    "code": [
+        {
+            "print": {
+                "string": [
+                    "Hello"
+                ]
+            },
+            "line": 1
+        },
+        {
+            "print": {
+                "string": [
+                    "Testing"
+                ]
+            },
+            "line": 2
+        },
+        {
+            "print": {
+                "string": [
+                    "It works!"
+                ]
+            },
+            "line": 3
+        }
+    ]
+}
